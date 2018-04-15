@@ -1,4 +1,4 @@
 this file is created to learn about merge conflict.
-this line I will add
-this line i will remove
-this line I will modify.
+this line I will add. you are good.
+
+this line I modified after pulling changes.
