@@ -1,6 +1,6 @@
 Let's kill the randomness.
 Let's try to understand the physics of the behaviour of the system.
-Let's make an attempt.
+Let's make an attempt to predict system states by using first principles of physics
 Lets do it.
-
+yeah let's do it.
 So we attampted and can't remove complete randomness. sad :P
